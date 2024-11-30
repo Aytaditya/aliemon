@@ -132,3 +132,7 @@ const main = async () => {
 };
 
 main();
+
+
+// Account is approved
+// Approval Transaction hash: 0x0f073386e008d3fc66ef6037235cc5421a0171458b4f383f2f995cd60a667997
